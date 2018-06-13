@@ -1,0 +1,23 @@
+{
+	"name": "passport-token",
+	"version": "1.0.0",
+	"description": "Token authentication strategy for passport.",
+	"main": "./lib",
+	"directories": {
+		"lib": "lib"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Alw3ys/passport-token"
+	},
+	"keywords": [
+		"passport",
+		"authentication",
+		"token"
+	],
+	"author": "Alw3ys",
+	"license": "MIT"
+}
